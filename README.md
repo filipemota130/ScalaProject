@@ -1,2 +1,1 @@
 # ScalaProject
-# ScalaProject
